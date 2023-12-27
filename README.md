@@ -6,12 +6,12 @@ Content
 The dataset consists of:
 comment_text: The text of the Comment
 class: The respective class to which the tweet belongs. There are 5 classes -:
-•	toxic
-•	severe_toxic
-•	obscene
-•	threat
-•	insult
-•	identity_hate
+toxic,
+severe_toxic,
+obscene,
+threat,
+insult,
+identity_hate
 
 Business Objective:
 1.	Need to get sentiment analysis of tweets gauge its impact and type
